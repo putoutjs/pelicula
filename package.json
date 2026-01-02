@@ -1,0 +1,50 @@
+{
+  "name": "anuma",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
+  "description": "Linter that fixes syntax errors",
+  "homepage": "http://github.com/coderaiser/anuma",
+  "main": "lib/anuma.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coderaiser/anuma.git"
+  },
+  "keywords": [
+    "linter",
+    "js"
+  ],
+  "scripts": {
+    "test": "madrun test",
+    "coverage": "madrun coverage",
+    "lint": "madrun lint",
+    "fix:lint": "madrun fix:lint",
+    "report": "madrun report",
+    "watcher": "madrun watcher",
+    "watch:test": "madrun watch:test",
+    "watch:lint": "madrun watch:lint",
+    "update:dist": "madrun update:dist"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "c8": "^10.0.0",
+    "eslint": "^9.1.1",
+    "eslint-plugin-putout": "^29.2.0",
+    "madrun": "^11.0.0",
+    "montag": "^1.2.1",
+    "nodemon": "^3.1.0",
+    "putout": "^41.2.1",
+    "supertape": "^11.0.4",
+    "try-to-catch": "^4.0.2"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@ast-grep/napi": "^0.40.3",
+    "@putout/engine-loader": "^17.0.7"
+  }
+}
