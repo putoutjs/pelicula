@@ -9,6 +9,8 @@
 [CoverageURL]: https://coveralls.io/github/putoutjs/anuma?branch=master
 [CoverageIMGURL]: https://coveralls.io/repos/putoutjs/anuma/badge.svg?branch=master&service=github
 
+<img width="600" height="953" alt="image" src="https://github.com/user-attachments/assets/a6296d52-d053-4fe8-a615-c4733b7c1b40" />
+
 > **Anumā** (अनुमा).— Inference, conclusion from given premises.
 
 **Anuma** fastest linter.
