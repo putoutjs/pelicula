@@ -13,12 +13,24 @@
 
 > **Anumā** (अनुमा).— Inference, conclusion from given premises.
 
-**Anuma** fastest linter.
+**Anuma** 🐊Putout-compatible patterns-based linter.
 
 ## Install
 
 ```
 npm i anuma --save
+```
+
+## API
+
+```js
+import {lint} from 'anuma';
+
+const [code, places] = lint(source, {
+    plugins: [
+        'remove-debugger',
+    ],
+});
 ```
 
 ## License
