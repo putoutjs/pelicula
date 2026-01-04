@@ -1,6 +1,10 @@
 {
     "rules": {
-        "putout": "on"
+        "putout": "on",
+        "tape/remove-skip": "off"
     },
-    "ignore": ["example", "!**/dist"]
+    "ignore": [
+        "example",
+        "!**/dist"
+    ]
 }
