@@ -1,14 +1,14 @@
 {
-  "name": "anuma",
-  "version": "1.1.0",
+  "name": "pelicula",
+  "version": "1.0.0",
   "type": "module",
   "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
   "description": "🐊Putout-compatible patterns-based linter",
-  "homepage": "http://github.com/coderaiser/anuma",
-  "main": "lib/anuma.js",
+  "homepage": "http://github.com/coderaiser/pelicula",
+  "main": "lib/pelicula.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coderaiser/anuma.git"
+    "url": "git+https://github.com/coderaiser/pelicula.git"
   },
   "keywords": [
     "linter",
