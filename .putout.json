@@ -1,7 +1,6 @@
 {
     "rules": {
-        "putout": "on",
-        "tape/remove-skip": "off"
+        "putout": "on"
     },
     "ignore": [
         "example",
