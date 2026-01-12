@@ -47,6 +47,7 @@
   "dependencies": {
     "@ast-grep/napi": "^0.40.3",
     "@putout/engine-loader": "^17.0.7",
+    "nano-memoize": "^3.0.16",
     "try-catch": "^4.0.7"
   }
 }
