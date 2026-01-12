@@ -4,11 +4,11 @@
   "type": "module",
   "author": "coderaiser <mnemonic.enemy@gmail.com> (https://github.com/coderaiser)",
   "description": "🐊Putout-compatible patterns-based linter",
-  "homepage": "http://github.com/coderaiser/pelicula",
+  "homepage": "http://github.com/putoutjs/pelicula",
   "main": "lib/pelicula.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coderaiser/pelicula.git"
+    "url": "git+https://github.com/putoutjs/pelicula.git"
   },
   "keywords": [
     "linter",
