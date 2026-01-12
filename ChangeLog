@@ -1,3 +1,8 @@
+2026.01.12, v1.0.2
+
+fix:
+- fa68683 pelicula: coderaiser -> putoutjs
+
 2026.01.12, v1.0.1
 
 feature:
